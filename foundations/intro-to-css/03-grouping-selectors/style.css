@@ -1,0 +1,12 @@
+button{
+    font-size: 28px;
+    font-family: 'Times New Roman', sans-serif, Helvetica
+
+}
+.beggar{
+    background-color: black;
+    color: white;
+}
+.chooser{
+    background-color: yellow;
+}
